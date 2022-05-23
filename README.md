@@ -1,1 +1,1 @@
-# beacademy-devstart-logicadeprogramacao
+# Exercícios da disciplina de logica de programação
