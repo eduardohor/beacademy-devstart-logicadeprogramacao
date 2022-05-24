@@ -1,7 +1,7 @@
 Algoritmo "NOME-IDADE"
-// Lógica de Programação
+// LÃ³gica de ProgramaÃ§Ã£o
 // Professor   :Marcos Monteiro 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/04/2022
 Var
