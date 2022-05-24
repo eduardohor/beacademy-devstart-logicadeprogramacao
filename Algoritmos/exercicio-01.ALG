@@ -1,7 +1,7 @@
 Algoritmo "Calcular IMC"
-// LÛgica de ProgramaÁ„o
+// L√≥gica de Programa√ß√£o
 // Professor   :Marcos Monteiro 
-// DescriÁ„o   : Aqui vocÍ descreve o que o programa faz! (funÁ„o)
+// Descri√ß√£o   : Aqui voc√™ descreve o que o programa faz! (fun√ß√£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/04/2022
 Var
@@ -10,9 +10,9 @@ nome: caractere
 peso, altura, imc: real
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc... 
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
 
-   escreval("------------Calculando IMC(ÕNDICE DE MASSA CORP”REA)------------")
+   escreval("------------Calculando IMC(√çNDICE DE MASSA CORP√ìREA)------------")
    escreval("Digite o seu nome: ")
    leia(nome)
    escreval("Digite seu peso em Kg: ")
